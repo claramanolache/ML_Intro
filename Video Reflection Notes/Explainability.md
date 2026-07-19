@@ -11,3 +11,14 @@ The difference shouldn’t be very surprising. Waymo is the first fully automate
 
 
 Ultimately, the comparison between Waymo and Tesla demonstrates a central conflict in modern artificial intelligence. Companies must balance robustness and explainability (as Waymo initially did in favor of robustness) as well as speed and simplicity (which Tesla favored over explainability). These choices often reflect the values of the companies producing the models. 
+
+
+### Sources:
+
+[Tesla's Recent Crash](https://www.nbcnews.com/news/us-news/fatal-texas-tesla-automated-driving-assistance-crash-lawsuit-rcna351485)
+
+ 
+[Tesla Settlement](https://www.statesman.com/business/article/tesla-fatal-crash-lawsuit-fsd-probe-nhtsa-22324167.php)
+
+
+[Waymo vs Tesla System](https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems)
